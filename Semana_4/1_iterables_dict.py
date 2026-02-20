@@ -104,7 +104,3 @@ print(personaje_2)
 # print(personaje['hobbie'])
 print(personaje.get('altura'))
 print(personaje.get('hobbie', "No se encontro el valor indicado"))
-
-
-#!Quitar para la clase
-print(len(personaje))
